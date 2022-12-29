@@ -1,4 +1,6 @@
-                                                    # let me introduce myself ! 🙆‍♀️
+<div align="center">
+  # let me introduce myself ! 🙆‍♀️
+</div>
 
 ## <span style="color:aqua">**이름: 한선진** </span>
 
