@@ -2,6 +2,12 @@
 
 <div align=center><h1>💖 Hi, I’m Sunjin 💖</h1></div>
 
+![이병헌-이병헌춤](https://user-images.githubusercontent.com/121417902/211530633-df39bd73-14b4-46c6-bb4f-9c6e892d48de.gif)
+
+---
+
+</br>
+
 <div align=center>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=badajinsee&show_icons=true&theme=radical)
