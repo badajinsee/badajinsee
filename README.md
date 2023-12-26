@@ -20,7 +20,7 @@
   <p>
     <img src="https://img.shields.io/badge/PYTHON-3776AB?style=icon&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/GIT-F05032?style=icon&logo=Git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+
 
   </p>
 </div>
